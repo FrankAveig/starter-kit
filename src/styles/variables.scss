@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "Fs_r";
+    src: url("../assets/fonts/fs_r.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+$primary-color: #22205F;
+$secondary-color: #FFCC05;
+$black-color: #000;
+$white-color: #fff;
+$gray-color: #ccc;
+$error-color: #f04040;
+$success-color: #008000;
+$text-color: #333;
+$warning-color: #ffcc05;
+
+$spacing-xs: 0.3125rem;
+$spacing-s: 0.625rem;
+$spacing-m: 1.25rem;
+$spacing-l: 2.5rem;
+$spacing-xl: 3.75rem;
+$spacing-xxl: 5rem;
+
+
+$border-radius: 30px;
+
+$transition: all 0.3s ease;
+
+$font-family: 'Fs_r', sans-serif;
